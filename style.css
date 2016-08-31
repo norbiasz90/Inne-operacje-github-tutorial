@@ -1,0 +1,11 @@
+html, body{
+	background-color: beige;
+	font-family: sans-serif;
+	color: #4c5271;
+	padding: 2em;
+}
+
+ol li{
+	margin-bottom: 1em;
+}
+
