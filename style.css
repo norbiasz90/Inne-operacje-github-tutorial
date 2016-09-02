@@ -9,3 +9,6 @@ ol li{
 	margin-bottom: 1em;
 }
 
+ul li:first-child{
+	margin-top: 1em;
+}
