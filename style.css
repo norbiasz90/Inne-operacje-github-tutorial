@@ -6,9 +6,9 @@ html, body{
 }
 
 ol li{
-	margin-bottom: 1em;
+	margin-bottom: 2em;
 }
 
 ul li:first-child{
-	margin-top: 1em;
+	margin-top: 2em;
 }
