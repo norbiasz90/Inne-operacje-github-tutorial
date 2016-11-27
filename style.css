@@ -1,14 +1,14 @@
 html, body{
-	background-color: yellow;
+	background-color: red;
 	font-family: sans-serif;
-	color: red;
+	color: black;
 	padding: 2em;
 }
 
 ol li{
-	margin-bottom: 1em;
+	margin-bottom: 2em;
 }
 
 ul li:first-child{
-	margin-top: 1em;
+	margin-top: 2em;
 }
